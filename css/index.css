@@ -1,0 +1,43 @@
+@media(max-width:768px) {
+    #header {
+        margin-left:20%;
+        font-size: 25px;
+    }
+    #img {
+        margin-left:14%;
+        margin-top:10%; 
+    }
+    body {
+        width:640px;
+        margin:0px;     
+    }
+    #ex {
+        margin-left:10%;
+        color:gray;
+        font-size:17px;
+    }
+    #click {
+        margin-left:45%;
+        font-size:30px;
+        color:blue;
+    }
+}
+@media(min-width:1024px) {
+    #header {
+        margin-left:40%;
+    }
+    #img {
+        margin-left:32%;
+    }
+    #ex {
+        margin-left:32%;
+        color:gray;
+        font-size:17px;
+    }
+    #click {
+        margin-left:47.5%;
+        font-size:30px;
+        color:blue;
+    }
+}
+
